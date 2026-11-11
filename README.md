@@ -1,4 +1,4 @@
-# Integral School
+# School Redesigned
 
 **Learning with people, nature and AI.**
 
